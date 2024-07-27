@@ -1,0 +1,6 @@
+@AuchanWebApi_HostAddress = http://localhost:5101
+
+GET {{AuchanWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
